@@ -17,4 +17,4 @@ To make an animated texture, create a new text file and rename it with this form
 
 You're good to go!
 
-P/S: If you're lazy to do the steps above, you can download the pack here.
+P/S: If you're lazy to do the steps above, you can download the pack [here](https://github.com/HisashiKurokku/bad-apple-minecraft-wood/releases/tag/resource_pack).
